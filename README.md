@@ -1,6 +1,6 @@
 # NLP Paper Review
 
-NLP와 관련된 논문을 정리한 레포입니다. 
+NLP와 관련된 논문을 읽고 정리한 레포입니다. 
 
 ## 구성 
 |**Category**|**Paper**|**Date**|**Link**|
